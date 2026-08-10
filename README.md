@@ -87,3 +87,5 @@ O dashboard reúne os principais indicadores e análises do projeto em uma únic
 ## Desenvolvido por
 
 **A. Nardes**
+
+**Python | Pandas | Jupyter Notebook | Power BI | DAX**
